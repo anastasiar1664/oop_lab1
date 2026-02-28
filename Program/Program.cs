@@ -10,5 +10,6 @@ class Program
         string? name = Console.ReadLine();
         System.Console.WriteLine($"Hello, {name}");
         System.Console.WriteLine("How are you?");
+        System.Console.WriteLine(2 + 67);
     }
 }
